@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋🏼 Hey, I'm Thinh 👽
 
-<!--
-**teephan91/teephan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught web developer based in Vancouver, Canada. Currently, I'm working hard every day to improve my skill set as a full-stack developer. And I'm always looking for working opportunities to contribute, apply and expand what I've learned.
 
-Here are some ideas to get you started:
+## My featured projects
+- [x] <code>[Calculator](https://github.com/teephan91/calculator)</code> 🧮
+- [x] <code>[ProofHub sign-up form](https://github.com/teephan91/form)</code> 📝
+- [x] <code>[Etch-a-Sketh](https://github.com/teephan91/etch_a_sketch)</code> 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈
+- [x] Follow my tech journey on [Instagram](https://www.instagram.com/thinh.codes/). 👈
+- [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈
+
+### I'm looking forward to hearing from you!
