@@ -8,8 +8,8 @@ I'm a self-taught web developer based in Vancouver, Canada. Currently, I'm worki
 - [x] <code>[Etch-a-Sketh](https://github.com/teephan91/etch_a_sketch)</code> 🎨
 
 ## Connect with me
-- [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈
-- [x] Follow my tech journey on [Instagram](https://www.instagram.com/thinh.codes/). 👈
-- [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈
+- [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈🏼
+- [x] Follow my tech journey on [Instagram](https://www.instagram.com/thinh.codes/). 👈🏼
+- [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈🏼
 
 ### I'm looking forward to hearing from you!
