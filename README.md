@@ -2,6 +2,20 @@
 
 I'm a self-taught web developer based in Vancouver, Canada. I'm currently working hard every day to improve my skill set as a full-stack developer. And I'm also seeking full-time opportunities to contribute, apply and expand what I've learned.
 
+These are the skills and technologies that I'm proficient with:
+
+- [x] <code>Problem solving</code>
+- [x] <code>Debugging</code>
+- [x] <code>Googling</code>
+- [x] <code>Techninal writing</code>
+- [x] <code>Version control - Git</code>
+- [x] <code>HTML</code>
+- [x] <code>CSS</code>
+- [x] <code>Javascript</code>
+
+Right now, I'm learning the <code>M</code>ongoDB, <code>E</code>xpressJS, <code>R</code>eactJS and <code>N</code>odeJS or </code><code>M</code><code>E</code><code>R</code><code>N</code> stack.
+
+
 ## My featured projects
 - [x] <code>[Calculator](https://github.com/teephan91/calculator)</code> 🧮
 - [x] <code>[ProofHub sign-up form](https://github.com/teephan91/form)</code> 📝
