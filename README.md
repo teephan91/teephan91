@@ -1,6 +1,6 @@
 # 👋🏼 Hey, I'm Thinh 👽
 
-I'm a self-taught web developer based in Vancouver, Canada. Currently, I'm working hard every day to improve my skill set as a full-stack developer. And I'm always looking for working opportunities to contribute, apply and expand what I've learned.
+I'm a self-taught web developer based in Vancouver, Canada. I'm currently working hard every day to improve my skill set as a full-stack developer. And I'm also seeking full-time opportunities to contribute, apply and expand what I've learned.
 
 ## My featured projects
 - [x] <code>[Calculator](https://github.com/teephan91/calculator)</code> 🧮
