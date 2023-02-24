@@ -9,6 +9,7 @@ I'm a self-taught web developer based in Vancouver, Canada. Currently, I'm worki
 
 ## Connect with me
 - [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈🏼
+- [x] Connect with me on [LinkedIn](https://www.linkedin.com/in/thinhdev/). 👈🏼 
 - [x] Follow my tech journey on [Instagram](https://www.instagram.com/thinhdev/). 👈🏼
 - [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈🏼
 
