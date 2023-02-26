@@ -1,4 +1,4 @@
-# 👋🏼 Hey, I'm Thinh 👽
+# 👋🏼 Hey, I'm Thinh
 
 I'm a self-taught web developer based in Vancouver, Canada. I'm currently working hard every day to improve my skill set as a full-stack developer. And I'm also seeking full-time opportunities to contribute, apply and expand what I've learned.
 
