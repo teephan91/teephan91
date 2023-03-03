@@ -1,6 +1,6 @@
 # 👋🏼 Hey, I'm Thinh
 
-I'm a full stack developer based in Vancouver, Canada. I'm currently learning <code>M</code>ongoDB, <code>E</code>xpressJS, <code>R</code>eactJS and <code>N</code>odeJS or the <code>M</code><code>E</code><code>R</code><code>N</code> stack. I'm also seeking a full-time working opportunity to contribute, apply and expand what I've learned.
+I'm a full stack developer based in Vancouver, Canada. I'm currently learning <code>M</code>ongoDB, <code>E</code>xpress, <code>R</code>eact and <code>N</code>ode or the <code>M</code><code>E</code><code>R</code><code>N</code> stack. I'm also seeking a full-time working opportunity to contribute, apply and expand what I've learned.
 
 These are the skills and technologies that I'm proficient with:
 
