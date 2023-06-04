@@ -17,6 +17,7 @@ These are the skills and technologies that I'm proficient with:
 - [x] <code>[Calculator](https://github.com/teephan91/calculator)</code> 🧮
 - [x] <code>[ProofHub sign-up form](https://github.com/teephan91/form)</code> 📝
 - [x] <code>[Etch-a-Sketh](https://github.com/teephan91/etch_a_sketch)</code> 🎨
+- [x] <code>[Library](https://github.com/teephan91/library)</code> 📚
 
 ## Connect with me
 - [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈🏼
