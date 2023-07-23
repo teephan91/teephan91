@@ -14,6 +14,7 @@ These are the skills and technologies that I'm proficient with:
 - [x] <code>Javascript</code>
 
 ## My featured projects
+- [x] <code>[Tic Tac Toe](https://github.com/teephan91/tic_tac_toe)</code> ❌⭕️
 - [x] <code>[Calculator](https://github.com/teephan91/calculator)</code> 🧮
 - [x] <code>[ProofHub sign-up form](https://github.com/teephan91/form)</code> 📝
 - [x] <code>[Etch-a-Sketh](https://github.com/teephan91/etch_a_sketch)</code> 🎨
