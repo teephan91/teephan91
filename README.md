@@ -22,7 +22,6 @@ These are the skills and technologies that I'm proficient with:
 
 ## Connect with me
 - [x] To learn more about me and my projects, visit my [portfolio](https://teephan91.github.io). 👈🏼
-- [x] Connect with me on [LinkedIn](https://www.linkedin.com/in/thinhdev/). 👈🏼 
 - [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈🏼
 
 ### I'm looking forward to hearing from you!
