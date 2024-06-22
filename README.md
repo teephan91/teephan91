@@ -1,6 +1,6 @@
 # 👋🏼 Hey, I'm Thinh
 
-I'm a full stack developer based in Vancouver, Canada. I'm currently learning <code>M</code>ongoDB, <code>E</code>xpress, <code>R</code>eact and <code>N</code>ode or the <code>M</code><code>E</code><code>R</code><code>N</code> stack.
+I'm a self-taught developer based in Vancouver, Canada. I'm currently learning <code>M</code>ongoDB, <code>E</code>xpress, <code>R</code>eact and <code>N</code>ode or the <code>M</code><code>E</code><code>R</code><code>N</code> stack.
 
 These are the skills and technologies that I'm proficient with:
 
@@ -21,9 +21,8 @@ These are the skills and technologies that I'm proficient with:
 - [x] <code>[Library](https://github.com/teephan91/library)</code> 📚
 
 ## Connect with me
-- [x] To learn more about me and my projects, visit my [professional portfolio](https://teephan91.github.io). 👈🏼
+- [x] To learn more about me and my projects, visit my [portfolio](https://teephan91.github.io). 👈🏼
 - [x] Connect with me on [LinkedIn](https://www.linkedin.com/in/thinhdev/). 👈🏼 
-- [x] Follow my tech journey on [Instagram](https://www.instagram.com/thinhdev/). 👈🏼
 - [x] Reach me at <a href="mailto:therealthinhphan@gmail.com">my personal email</a>. 👈🏼
 
 ### I'm looking forward to hearing from you!
